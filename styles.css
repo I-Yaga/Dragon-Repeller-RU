@@ -17,7 +17,8 @@ body {
 }
 
 #game {
-  width: 100%;
+  box-sizing: border-box;
+  width: 99%;
   max-width: 500px;
   background-color: #ffffff;
   color: #ffffff;
