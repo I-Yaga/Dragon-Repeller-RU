@@ -1,1 +1,1 @@
-# Dragon-Repeller-RU-
+# Dragon-Repeller JavaScript quest game (RU)
