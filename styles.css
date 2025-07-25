@@ -60,3 +60,12 @@ button {
   background-image: linear-gradient(#fecc4c, #ffac33);
   border: 3px solid #feac32;
 }
+
+.author {
+  margin-top: 5px;
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  font-size: 10px;
+  color: gray;
+}
